@@ -6,7 +6,7 @@ require_relative "../lib/student.rb"
 
 jim = User.new
 jim.first_name = "Jim"
-jim.last_name = ""
+jim.last_name = "Henson"
 
 steve = Student.new
 steve.first_name = "Steve"
