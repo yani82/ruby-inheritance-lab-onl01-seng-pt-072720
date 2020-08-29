@@ -11,6 +11,8 @@ jim.last_name = "Henson"
 steve = Student.new
 steve.first_name = "Steve"
 steve.last_name = "Jobs"
+more_knowledge = avi.teach
+steve.learn(more_knowledge)
 
 avi = Teacher.new
 avi.first_name = "Avi"
