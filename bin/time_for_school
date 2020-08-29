@@ -17,8 +17,6 @@ avi.first_name = "Avi"
 avi.last_name = "Flombaum"
 
 some_knowledge = avi.teach 
-more_knowledge = avi.teach
-steve.learn(more_knowledge)
 
 steve.learn(some_knowledge)
 
